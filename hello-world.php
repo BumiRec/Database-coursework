@@ -32,9 +32,9 @@ return $fullName;
 echo printName()."<br>";
 echo $fullName;
     
-echo "this is an update to github commit"
-    
-    
+echo "this is an update to github"
+
+echo "this is an update to github  2"
     
     
     
