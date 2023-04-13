@@ -32,11 +32,11 @@ return $fullName;
 echo printName()."<br>";
 echo $fullName;
     
-echo "this is an update to github"
+echo "this is an update to github";
 
-echo "this is an update to github  2"
+echo "this is an update to github  2";
     
-echo "this is push update to main"
+echo "this is push update to main";
     
     
     
